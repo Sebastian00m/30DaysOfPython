@@ -18,3 +18,7 @@ print(type(9.8))
 print(type(3.14))
 print(type(4 - 4j))
 print(type(['Asabeneh', 'Python', 'Finland']))
+
+#Find an Euclidian distance between (2, 3) and (10, 8)
+print(((2-3)**2)**0.5)
+print(((10-8)**2)**0.5)
