@@ -38,9 +38,15 @@ print(type(is_true))
 print(type(is_light_on))
 
 #2)_Usando la función incorporada len() , encuentre la longitud de su nombre
+print(len(full_name))
 #3)_Compara la longitud de tu nombre y tu apellido
+print((len(first_name))==(len(last_name)))
 #4)_Declare 5 como num_one y 4 como num_two
+num_one=5
+num_two=4
     #a_Suma num_one y num_two y asigna el valor a una variable total
+    suma= num_one + num_two
+    print(suma)
     #b_Reste num_two de num_one y asigne el valor a una variable diff
     #c_Multiplica num_two y num_one y asigna el valor a un producto variable
     #d_Divide num_one por num_two y asigna el valor a una división variable
